@@ -1,0 +1,13 @@
+{
+    "name": "SatoshiTracker",
+    "accounts": [
+        {
+            "balance": 0,
+            "name": "one"
+        },
+        {
+            "balance": 0,
+            "name": "two"
+        }
+    ]
+}

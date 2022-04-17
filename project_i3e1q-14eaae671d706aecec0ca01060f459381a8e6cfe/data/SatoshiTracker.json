@@ -1,0 +1,13 @@
+{
+    "name": "Satoshi Tracker",
+    "accounts": [
+        {
+            "balance": 5500,
+            "name": "main"
+        },
+        {
+            "balance": 500,
+            "name": "binance"
+        }
+    ]
+}
